@@ -1,0 +1,33 @@
+.table{
+
+    color: red;
+}
+.aline{
+    color: white;
+    text-align: center;
+}
+*{
+    background-color: black;
+
+}
+
+.thead tr th{
+    color:red;
+    background-color:black;
+    border: 0px;
+    
+
+}
+.tbody tr td{
+    color: whitesmoke;
+    background-color: rgb(4, 4, 4 , 0.6);
+    border: 0px;
+
+}
+.alldeleted{
+    text-align: center;
+    padding-top: 90px;
+
+    color: red;
+    font-weight: 400;
+}
